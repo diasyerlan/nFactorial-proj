@@ -1,16 +1,8 @@
 # colors_app
 
-A new Flutter project.
+Для запуска приложения необходимо установить Flutter и Dart. Ниже прикреплена документация по установке и запуску: 
+https://dart.dev/get-dart
+https://docs.flutter.dev/get-started/install/windows/mobile
 
-## Getting Started
+В ходе проектирования за основу основного движка приложения была взята специальная библиотека flutter_hsvcolor_picker. Операции связанные с хранением данных были осуществлены с помощью Firebase. 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
